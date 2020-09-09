@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS 1
+#define _CRT_SECURE_NO_WARNINGS 
 #include<stdio.h>
 
 int main()
@@ -32,6 +32,6 @@ int main()
 		c = t;
 	}
 	printf("三个数按照从大到小的顺序排列为: %d  %d  %d  \n", a, b, c);
-
+	
 	return 0;
 }
